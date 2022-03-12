@@ -1,2 +1,6 @@
 this is test file from local repo
+<<<<<<< HEAD
 editing in local repo
+=======
+this id mod in remote repo
+>>>>>>> 60d62d9fa334dad4273fd36c35e6b4155fa83796
